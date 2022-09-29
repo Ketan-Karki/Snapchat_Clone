@@ -4,7 +4,7 @@ This Repo Contains a functional Snapchat Clone made using Nextjs and Reactjs
 
 # Preview
 
-https://snapchat-clone-5aa80.web.app/
+https://snapchat-clone-yt-57083.web.app/
 
 # TechStack
 
