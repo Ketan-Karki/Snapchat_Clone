@@ -25,3 +25,4 @@ https://snapchat-clone-yt-57083.web.app/
 
 1. Messaging feature
 2. Private Snap sending feature
+3. Filters Features 
